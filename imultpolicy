@@ -1,29 +1,55 @@
 Terms of Use and Privacy Policy
 *******************************
 
-iMultiplier is a small, completely free image multiplication application, no functionality is restricted. The author is in no way held responsible for any irresponsible use on the part of a potential user.
+iMultiplier is a small, completely free image multiplication application,
+no functionality is restricted. The author is in no way held responsible
+for any irresponsible use on the part of a potential user.
 
-iMultiplier does not collect or share users' personal data. The user has total control over the information he provides.
+iMultiplier does not collect or share users' personal data.
+The user has total control over the data he types.
 
 1. Data management
 ******************
 
-We do not collect any personal data. iMultiplier works offline, it requires no registration, no payment.
+We do not collect any personal data. iMultiplier works offline,
+it requires no registration, no payment.
 
-iMultiplier is a simple application allowing you to multiply images with dynamic content, the data you provide only concerns the parameters of your image editing projects.
+iMultiplier is a simple application allowing you to multiply images
+with dynamic content, the data you provide only concerns the parameters
+of your image editing projects.
 
 
 2. Permissions
 **************
 
-To run properly, iMultiplier like most mobile applications requires specific permissions on the use of phone features. 
-To be able to import images from the photo gallery and the information to be incorporated therein, the user must grant the necessary permissions on reading and writing photos.
+-This application requests permission to read and write files.
+-This application use AccessibilityService API to send messages on Whatsapp.
+-This application does not collect or store any data.
+-This application does not change user setting or prevent the ability for users to uninstall any app or service.
+-This application does not work around Android built-in privacy controls and notifications.
+-This application does not change or leverage the user interface in a way that is deceptive, and does not violates Google Play Developer policies.
+-This application does not remote call audio recording.
 
-3. Sharing and accessibility
-****************************
+Why does this app need permission to read and write files?
+-To run properly, iMultiplier like most mobile applications requires specific
+permissions on the use of phone features.
+To be able to import images from the photo gallery and the information to be
+incorporated therein, the user must grant the necessary permissions on reading and writing photos.
 
-iMultiplier offers the ability to share user-generated images. Sharing can be controlled or automatic. The user can share the images via a third-party application that he has previously chosen from the list proposed by the phone's operating system. However, if the user needs to transfer images to several recipients, on WhatsApp for example, he must repeat this process for each of them. To save time, the user can automate the simultaneous sharing on Whatsapp of images generated with iMultiplier with personalized messages to several recipients. To do this, he will be asked to grant accessibility to the button for sending a message on WhatsApp.
+Why does this app need to use the AccessibilityService API?
+-For app functionality only: This app uses the AccessibilityService API to enable the user
+the ability to automatically share generated images with WhatsApp friends.
+iMultiplier offers the ability to share user-generated images. Sharing can be
+controlled or automatic. The user can share the images via a third-party application
+that he has previously chosen from the list proposed by the phone's operating system.
+However, if the user needs to transfer images to several recipients, on WhatsApp for
+example, he must repeat this process for each of them. To save time, the user can
+automate the simultaneous sharing on Whatsapp of images generated with iMultiplier
+with personalized messages to several recipients. To do this, he will be asked to
+grant accessibility to the button for sending a message on WhatsApp.
 
+Does this app collect and/or share personal or sensitive data using the accessibility capabilities?
+-No
 
 iMultiplier
 
